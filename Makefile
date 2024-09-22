@@ -1,3 +1,4 @@
+#### Empty repo; developed while testing init/gh, but not implemented
 ## This is which repo?
 ## github_public
 ## github_private
